@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`builds correctly (with advanced snapshot) 1`] = `
+Object {
+  "items": Array [
+    "Item 1",
+    "Item 2",
+    "Item 5",
+  ],
+  "total": Any<Number>,
+}
+`;
